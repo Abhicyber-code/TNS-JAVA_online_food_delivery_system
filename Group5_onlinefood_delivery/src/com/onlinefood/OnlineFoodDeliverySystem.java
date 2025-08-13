@@ -2,13 +2,6 @@ package com.onlinefood;
 
 import java.util.*;
 
-/**
- * Core Java Case Study: Online Food Delivery System
- * Single-file implementation with entities, services, and a menu-driven CLI
- * to match the provided specification and sample I/O.
- *
- * Compile:  javac OnlineFoodDeliverySystem.java
- * Run:      java OnlineFoodDeliverySystem
  */
 public class OnlineFoodDeliverySystem {
 
