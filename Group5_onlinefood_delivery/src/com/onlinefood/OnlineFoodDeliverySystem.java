@@ -2,7 +2,6 @@ package com.onlinefood;
 
 import java.util.*;
 
- */
 public class OnlineFoodDeliverySystem {
 
     // ====== ENTITIES ======
